@@ -6,3 +6,5 @@ This Is The Odin-Recipes Project :
 - Demonstrate my Git repo knowledge
 
 - Demonstrate my knowledge and skill with HTML
+
+- Demonstrate my knowledge and skill with CSS
